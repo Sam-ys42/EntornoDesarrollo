@@ -3,4 +3,8 @@ dfsghsdfgsdfhfghdfghdfghfgh
 =======
 dfsghsdfgsdfhfghdfghdfghfgh
 y tú como te encuentras?
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+yo bien y tu?
 >>>>>>> origin/main
